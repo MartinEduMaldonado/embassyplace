@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Flask
+instance/
+.flaskenv
+
+# Node/React
+node_modules/
+build/
+.env
+
+# System Files
+AppData/
+NTUSER.DAT
+ntuser.ini
+.DS_Store
+Thumbs.db
